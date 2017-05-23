@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/Home"
+        android:icon="@drawable/home2"
+        android:title="Home"
+        app:showAsAction="always"/>
+    <item android:id="@+id/LogAircraft"
+        android:icon="@drawable/plane2"
+        android:title="Log Aircraft"
+        app:showAsAction="always"/>
+    <item android:id="@+id/Record"
+        android:icon="@drawable/record2"
+        android:title="My Record"
+        app:showAsAction="always"/>
+</menu>
