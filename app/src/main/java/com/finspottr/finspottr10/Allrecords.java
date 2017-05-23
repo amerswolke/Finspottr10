@@ -212,7 +212,6 @@ public class Allrecords extends AppCompatActivity {
     }
 
 
-
     //  Function added for main menu
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
